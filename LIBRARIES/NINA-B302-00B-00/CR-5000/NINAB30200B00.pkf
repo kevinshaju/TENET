@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "NINAB30200B00"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "NINAB30200B00")
+        (spec "default")
+    )
+)

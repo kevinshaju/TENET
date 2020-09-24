@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "TP4056-42-ESOP8"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2019-07-08-09:06:33)
+    (mountForm default
+        (footprintRef "SOIC127P600X175-9N")
+        (spec "System")
+    )
+)

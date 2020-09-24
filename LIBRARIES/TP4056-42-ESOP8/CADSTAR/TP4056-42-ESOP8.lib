@@ -1,0 +1,18 @@
+.TP4056-42-ESOP8 :1 ;f
+SOIC127P600X175-9N
+*STM IC
+*NGS
+*PLB 1="TEMP" 2="PROG" 3="GND" 4="VCC" 5="BAT" 6="'STDBY'" 7="'CHRG'" 8="CE" 9="EP"
+*MXP 9
+*DFN TP4056-42-ESOP8
+~!Manufacturer_Name (NanJing Top Power)
+~!Manufacturer_Part_Number (TP4056-42-ESOP8)
+~!Arrow Part Number (TP4056-42-ESOP8)
+~!Arrow Price/Stock (-)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Link Datasheet (https://datasheet.lcsc.com/szlcsc/1906261508_Nanjing-Extension-Microelectronics-TP4056-42-ESOP8_C16581.pdf)
+~!Height (1.75mm)
+~!3D_Model (TP4056-42-ESOP8)
+TP4056-42-ESOP8
+1.1!U 2.1!U 3.1!U 4.1!U 9.1!U 8.1!U 7.1!U 6.1!U 5.1!U 

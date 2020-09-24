@@ -1,0 +1,18 @@
+.FS312F-G :1 ;One Cell Lithium-ion/Polymer Battery Protection IC
+SOT95P280X145-6N
+*STM IC
+*NGS
+*PLB 1="OD" 2="CS" 3="OC" 4="TD" 5="VCC" 6="GND"
+*MXP 6
+*DFN FS312F-G
+~!Manufacturer_Name (Fortune Semiconductor Corporation)
+~!Manufacturer_Part_Number (FS312F-G)
+~!Arrow Part Number (FS312F-G)
+~!Arrow Price/Stock (-)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Link Datasheet (https://www.ic-fortune.com/upload/Download/FS312F-G-DS-12_EN.pdf)
+~!Height (1.45mm)
+~!3D_Model (FS312F-G)
+FS312F-G
+1.1!U 2.1!U 3.1!U 6.1!U 5.1!U 4.1!U 

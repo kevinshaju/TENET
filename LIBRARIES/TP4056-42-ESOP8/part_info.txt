@@ -1,0 +1,9 @@
+Manufacturer=NanJing Top Power
+PartNumber=TP4056-42-ESOP8
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=9
+Version=1.1
+Released=2019-07-08 09:06:33
+Downloaded=2020-08-19 13:22:04
+3D=Y

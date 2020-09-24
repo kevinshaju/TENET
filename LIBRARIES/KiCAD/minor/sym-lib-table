@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name cc1350)(type Legacy)(uri /home/kevin/Documents/KiCAD/minor/cc1350.lib)(options "")(descr ""))
+)

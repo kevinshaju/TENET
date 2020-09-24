@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NINA-B302-00B-00
+D BLUETOOTH LOW ENERGY STAND-ALONE
+K
+F https://www.u-blox.com/sites/default/files/NINA-B3_DataSheet_%28UBX-17052099%29.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,18 @@
+.FS8205A :1 ;dual n-channel enhancement mode power MOFSET
+SOP65P640X120-8N
+*STM Q
+*NGS
+*PLB 1="D12_1" 2="S1_1" 3="S1_2" 4="G1" 5="G2" 6="S2_1" 7="S2_2" 8="D12_2"
+*MXP 8
+*DFN FS8205A
+~!Manufacturer_Name (SII Semiconductor)
+~!Manufacturer_Part_Number (FS8205A)
+~!Arrow Part Number (FS8205A)
+~!Arrow Price/Stock (-)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Link Datasheet (http://www.ic-fortune.com/upload/Download/FS8205A-DS-12_EN.pdf)
+~!Height (1.2mm)
+~!3D_Model (FS8205A)
+FS8205A
+1.1!U 2.1!U 3.1!U 4.1!U 8.1!U 7.1!U 6.1!U 5.1!U 

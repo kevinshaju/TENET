@@ -1,0 +1,9 @@
+Manufacturer=Fortune Semiconductor Corporation
+PartNumber=FS312F-G
+PartCategory=Integrated Circuit
+PackageCategory=SOT23 (6-Pin)
+PinCount=6
+Version=1.1
+Released=2018-08-20 08:36:48
+Downloaded=2020-08-19 13:24:54
+3D=Y

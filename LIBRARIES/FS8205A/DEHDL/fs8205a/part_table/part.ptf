@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'FS8205A'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT", "TJ", "TKNEE", "MTBF", "POWER", "SLOPE", "SUBTYPE", "PACKAGE", "RJA", "RCA", "RJC", "IG", "ID", "VDS", "VGSF", "VGSR", "VTH", "RON", "IDM";
+{========================================================================================}
+ "SII Semiconductor", "FS8205A" (!) = "", "SOP65P640X120-8N", "Small Outline Packages", "FS8205A", "", "", "", "dual n-channel enhancement mode power MOFSET", "http://www.ic-fortune.com/upload/Download/FS8205A-DS-12_EN.pdf", "1.2 mm", "150", "", "", "1", "0.008", "DUAL N CHANNEL ENHANCEMENT MOSFET SMD POWER", "SOT23-6", "125", "", "", "10u", "5", "20", "12", "12", "0.75", "23m", "25"
+END_PART
+
+END.

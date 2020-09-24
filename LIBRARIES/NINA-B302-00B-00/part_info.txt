@@ -1,0 +1,9 @@
+Manufacturer=U-Blox
+PartNumber=NINA-B302-00B-00
+PartCategory=Integrated Circuit
+PackageCategory=Other
+PinCount=67
+Version=1.3
+Released=2019-10-17 14:13:03
+Downloaded=2020-08-17 19:17:20
+3D=Y

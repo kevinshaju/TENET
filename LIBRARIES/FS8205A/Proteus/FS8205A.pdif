@@ -1,0 +1,146 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "FS8205A"
+   (description "dual n-channel enhancement mode power MOFSET")
+   (family "TRX")
+   (package "SOP65P640X120-8N")
+   (attribute "Datasheet Link" "http://www.ic-fortune.com/upload/Download/FS8205A-DS-12_EN.pdf")
+   (attribute "Geometry.Height" "1.2mm")
+   (attribute "Manufacturer_Name" "SII Semiconductor")
+   (attribute "Manufacturer_Part_Number" "FS8205A")
+   (attribute "Arrow Part Number" "FS8205A")
+   (attribute "Arrow Price/Stock" "")
+   (attribute "Mouser Part Number" "")
+   (attribute "Mouser Price/Stock" "")
+   (gate
+    (symbol "FS8205A")
+    (pin "D12_1" 1 PS)
+    (pin "S1_1" 2 PS)
+    (pin "S1_2" 3 PS)
+    (pin "G1" 4 PS)
+    (pin "D12_2" 8 PS)
+    (pin "S2_2" 7 PS)
+    (pin "S2_1" 6 PS)
+    (pin "G2" 5 PS)
+   )
+  )
+  (symbol "FS8205A"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 1000 100) (pt 1000 -400) (pt 200 -400) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -300) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1200 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1200 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1200 -200) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1200 -300) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "SOP65P640X120-8N"
+   (units MM)
+   (layer OCCA
+    (graphic
+     (stroke 0.05)
+     (path
+      (closed true)
+      (pt -3.925 1.765)
+      (pt 3.925 1.765)
+      (pt 3.925 -1.765)
+      (pt -3.925 -1.765)
+      (pt -3.925 1.765))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -2.2 1.465)
+      (pt 2.2 1.465)
+      (pt 2.2 -1.465)
+      (pt -2.2 -1.465)
+      (pt -2.2 1.465))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -2.2 0.815)
+      (pt -1.55 1.465))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -1.85 1.465)
+      (pt 1.85 1.465)
+      (pt 1.85 -1.465)
+      (pt -1.85 -1.465)
+      (pt -1.85 1.465))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -3.675 1.55)
+      (pt -2.2 1.55))))
+   (leg 1 (pt -2.938 0.975) (padstack 0))
+   (leg 2 (pt -2.938 0.325) (padstack 0))
+   (leg 3 (pt -2.938 -0.325) (padstack 0))
+   (leg 4 (pt -2.938 -0.975) (padstack 0))
+   (leg 5 (pt 2.938 -0.975) (padstack 0))
+   (leg 6 (pt 2.938 -0.325) (padstack 0))
+   (leg 7 (pt 2.938 0.325) (padstack 0))
+   (leg 8 (pt 2.938 0.975) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 0.45 1.475 0 0 0))
+   )
+   (model "FS8205A.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

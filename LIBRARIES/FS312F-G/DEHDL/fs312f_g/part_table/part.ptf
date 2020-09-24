@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'FS312F_G'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Fortune Semiconductor Corporation", "FS312F-G" (!) = "", "SOT95P280X145-6N", "SOT23 (6-Pin)", "FS312F-G", "", "", "", "One Cell Lithium-ion/Polymer Battery Protection IC", "https://www.ic-fortune.com/upload/Download/FS312F-G-DS-12_EN.pdf", "1.45 mm"
+END_PART
+
+END.

@@ -1,0 +1,27 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP D
+D Generic Diode
+$ENDCMP
+#
+$CMP LED
+D LED
+$ENDCMP
+#
+$CMP Schottky
+D Schottky Diode
+$ENDCMP
+#
+$CMP TVS-BI
+D Bi-directional TVS Diode
+$ENDCMP
+#
+$CMP TVS-UNI
+D Uni-directional TVS Diode
+$ENDCMP
+#
+$CMP Zener
+D Zener Diode
+$ENDCMP
+#
+#End Doc Library
