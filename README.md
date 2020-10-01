@@ -1,7 +1,7 @@
 # __TENET__
 WIRELESS DEVELOPMENT BOARD DESIGN
 
-TENET is development board specifically designed for beginners and enthusiasts in the field of IoT and Robotics. At the heart of the board is the NINA-B302 microcontroller unit. The board also features the ESP-12F wireless chip for wireless connectivity. Incase if you're wondering how is it any different from other boards out there, then have a closer look at the design. TENET has an inbuilt DRV8833 motordriver which can be used to connect upto 2 motors without the need for any external shields. the board also supports a Li-Po charging unit that can be used to power the board using a single cell Li-Po battery, which will come in handy while prototyping your next wireless robot.
+TENET is development board specifically designed for beginners and enthusiasts in the field of IoT and Robotics. At the heart of the board is the NINA-B302 microcontroller unit. The board also features the ESP-12F wireless chip for wireless connectivity. Incase if you're wondering how is it any different from other boards out there, then have a closer look at the design. TENET has an inbuilt DRV8833 motordriver which can be used to connect upto 2 motors without the need for any external shields. The board also supports a Li-Po charging unit that can be used to power the board using a single cell Li-Po battery, which will come in handy while prototyping your next wireless robot.
 
 The board also has quite a few sensors that you might need for your integrated Iot project. The details of all the features of the board are provided below:
 
